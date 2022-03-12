@@ -1,4 +1,4 @@
 # opencv
 Face recognation &amp; identification
-you need to create to folders : DataSet and recognizer
+you need to create two folders : DataSet and recognizer
 and pray :)
